@@ -1,0 +1,14 @@
+
+post http://127.0.0.1:5000/predict
+Content-Type: application/json
+
+{
+    
+    "filename": "static/uploads/msu_comparison.png"
+
+}
+
+
+###
+
+GET http://127.0.0.1:5000/display-images

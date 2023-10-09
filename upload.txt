@@ -1,0 +1,9 @@
+git lfs install
+
+git lsf track "*.pkl"
+
+git lfs push --all origin main
+
+
+///normal push to github
+add, commit and push to github
